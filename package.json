@@ -1,10 +1,10 @@
 {
-  "name": "express-hello-world",
-  "version": "1.0.0",
-  "description": "Express Hello World on Render",
+  "name": "multiplayer-golf",
+  "version": "0.0.1",
+  "description": "Multiplayer Golf",
   "main": "app.js",
-  "repository": "https://github.com/render-examples/express-hello-world",
-  "author": "Render Developers",
+  "repository": "https://github.com/Hafnium780/multiplayer-golf",
+  "author": "Hafnium780",
   "license": "MIT",
   "private": false,
   "scripts": {
